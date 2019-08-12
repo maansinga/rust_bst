@@ -1,4 +1,4 @@
-#bin_tree
+# bin_tree
 
 This is my practice implementation of Binary Tree and BST in Rust lang.
 This attempt successfully implements the interior mutability approach using Rc<RefCell<Node>>.
