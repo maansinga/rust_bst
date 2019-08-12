@@ -1,0 +1,13 @@
+[package]
+name = "bin_tree"
+version = "0.1.0"
+authors = ["Sree Teja Simha G <Sreetejasimha.gemaraju@utdallas.edu>"]
+edition = "2018"
+
+[lib]
+name = "libbst"
+path = "src/lib.rs"
+
+[[bin]]
+name = "bst"
+path = "src/main.rs"
